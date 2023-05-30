@@ -16,8 +16,8 @@ export const LoginScreen = ({ authLogin }) => {
   }, [autenticado]);
 
   const [usuario, setUsuario] = useState({
-    email: "",
-    password: "",
+    email: "admin",
+    password: "admin",
   });
   const [error, setError] = useState(false);
   const [errorMensaje, setErrorMensaje] = useState("");
