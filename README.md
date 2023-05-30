@@ -1,7 +1,15 @@
-### `npm install`
-Instalar las dependencias
-### `npm start`
-Open [http://localhost:3000](http://localhost:3000)
-### `Usuario de Prueba`
-email= admin
-Contraseña: admin
+# App Pelis
+
+App de Peliculas consumiendo un API
+
+# Deploy
+
+https://app-pelis-eltonrc.netlify.app/
+
+# Cómo usar
+
+git clone https://github.com/EltonRc/App-Pelis.git
+
+npm install
+
+npm start
